@@ -1,0 +1,5 @@
+{
+  "name": "Devsource Quote Generator",
+  "description": "A tool to generate professional quotes for web development services, including redesign, development, and hosting. It calculates costs based on a daily rate and allows for easy customization.",
+  "requestFramePermissions": []
+}
